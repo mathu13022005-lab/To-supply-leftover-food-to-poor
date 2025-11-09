@@ -1,1 +1,1 @@
-# To-supply-leftover-food-to-poor
+This project aims to reduce food wastage and fight hunger by collecting surplus or leftover food from restaurants, hotels, events, and households and distributing it to poor and needy people. Every day, large amounts of edible food are thrown away while many people go hungry. Through this initiative, we create a bridge between food donors and people in need.
